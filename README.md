@@ -83,7 +83,18 @@ Looking to contribute and grow in a cybersecurity or development role, particula
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahav-eliyahu-9a07a8334)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yahaveliyahu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahaveliyahu@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/yahav-eliyahu-9a07a8334">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+
+  <a href="https://github.com/yahaveliyahu" style="margin-left:15px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  </a>
+
+  <a href="mailto:yahaveliyahu@gmail.com" style="margin-left:15px">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40"/>
+  </a>
+</p>
+
 
