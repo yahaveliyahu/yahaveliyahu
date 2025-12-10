@@ -73,8 +73,7 @@ Looking to contribute and grow in a cybersecurity or development role, particula
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" />
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="45" alt="Wireshark" />
-<img src="https://gitlab.com/wireshark/wireshark/-/raw/master/resources/icons/wsicon128.png" width="45" alt="Wireshark" />
+  <img src="https://gitlab.com/wireshark/wireshark/-/raw/master/resources/icons/wsicon128.png" width="45" alt="Wireshark" />
 </p>
 ---
 
