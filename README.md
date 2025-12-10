@@ -51,12 +51,6 @@ Looking to contribute and grow in a cybersecurity or development role, particula
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" />
 
-  <!-- Retrofit (official brand icon) -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/retrofit.svg" width="45" />
-
-  <!-- OkHttp (Square brand icon since OkHttp has no official logo) -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/square.svg" width="45" />
-
   <!-- MongoDB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
 
@@ -88,9 +82,11 @@ Looking to contribute and grow in a cybersecurity or development role, particula
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
 
+
   <a href="https://github.com/yahaveliyahu" style="margin-left:15px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   </a>
+  
 
   <a href="mailto:yahaveliyahu@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/240px-Gmail_icon_%282020%29.svg.png" width="40"/>
