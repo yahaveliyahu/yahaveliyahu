@@ -2,7 +2,7 @@
 
 ## About
 
-Results-driven software developer with a strong academic foundation in Computer Science and extensive hands-on experience in mobile development, machine learning, cybersecurity, and cloud technologies.
+Results driven software developer with a strong academic foundation in Computer Science and extensive hands-on experience in mobile development, machine learning, cybersecurity, and cloud technologies.
 
 Skilled in developing high-quality, user-focused Android applications with strong attention to architecture, performance, and seamless user experience, including experience in computer vision and AI-driven features.
 
