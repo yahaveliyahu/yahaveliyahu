@@ -1,11 +1,15 @@
 # 👋 Hi, I'm Yahav Eliyahu
 
 Results-driven software developer with a strong academic foundation in Computer Science and extensive hands-on experience in mobile development, machine learning, cybersecurity, and cloud technologies.
+
 Skilled in developing high-quality, user-focused Android applications with strong attention to architecture, performance, and seamless user experience, including experience in computer vision and AI-driven features.
+
 Beyond software development, I have a growing professional focus on cybersecurity.
 My background includes network security fundamentals, secure communication protocols, threat detection concepts, vulnerability analysis, and hands-on exposure to defensive tools and methodologies.
+
 Demonstrated ability to learn quickly, solve complex technical challenges, and lead projects from concept to production. 
 Combining creativity, analytical thinking, and a passion for clean architecture, I strive to develop impactful projects while keeping performance, UX, and security in mind. 
+
 Looking to contribute and grow in a cybersecurity or development role, particularly in AppSec or mobile development.
 
 --- 
