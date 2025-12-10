@@ -75,8 +75,9 @@ Looking to contribute and grow in a cybersecurity or development role, particula
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" />
 
   <!-- Networking / Cyber -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Logo.png" width="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Wireshark_Logo_2022.png" width="45" />
 </p>
+
 
 
 ---
