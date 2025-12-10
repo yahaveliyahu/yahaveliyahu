@@ -74,6 +74,7 @@ Looking to contribute and grow in a cybersecurity or development role, particula
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" />
   <img src="https://gitlab.com/wireshark/wireshark/-/raw/master/resources/icons/wsicon128.png" width="45" alt="Wireshark" />
+  <img src="https://raw.githubusercontent.com/wireshark/wireshark/master/resources/icons/wsicon128.png" width="45" alt="Wireshark" />
 </p>
 
 ---
