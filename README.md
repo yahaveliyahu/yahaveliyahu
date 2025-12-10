@@ -65,6 +65,8 @@ Looking to contribute and grow in a cybersecurity or development role, particula
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Logo.png" width="45" />
+
   <!-- IDEs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" width="45" />
