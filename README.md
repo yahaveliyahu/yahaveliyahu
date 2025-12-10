@@ -92,9 +92,9 @@ Looking to contribute and grow in a cybersecurity or development role, particula
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   </a>
 
-  <a href="mailto:yahaveliyahu@gmail.com" style="margin-left:15px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40"/>
-  </a>
+  <a href="mailto:yahaveliyahu@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/240px-Gmail_icon_%282020%29.svg.png" width="40"/>
+</a>
 </p>
 
 
