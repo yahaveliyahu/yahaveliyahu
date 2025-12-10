@@ -60,12 +60,12 @@ Looking to contribute and grow in a cybersecurity or development role, particula
 
 ### **Tools & Platforms**
 <p align="left">
+  <!-- Version Control -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Logo.png" width="45" />
+  <!-- OS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
 
   <!-- IDEs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" />
@@ -73,7 +73,11 @@ Looking to contribute and grow in a cybersecurity or development role, particula
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" />
+
+  <!-- Networking / Cyber -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Logo.png" width="45" />
 </p>
+
 
 ---
 
