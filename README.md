@@ -67,13 +67,15 @@ Looking to contribute and grow in a cybersecurity or development role, particula
   <!-- OS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
 
+  <!-- Cyber / Networking -->
+  <img src="https://gitlab.com/wireshark/wireshark/-/raw/master/resources/icons/wsicon128.png" width="45" alt="Wireshark" />
+  
   <!-- IDEs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" />
-  <img src="https://gitlab.com/wireshark/wireshark/-/raw/master/resources/icons/wsicon128.png" width="45" alt="Wireshark" />
 </p>
 
 ---
@@ -82,15 +84,15 @@ Looking to contribute and grow in a cybersecurity or development role, particula
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yahav-eliyahu-9a07a8334">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="margin-right: 15px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" style="margin-right: 15px;" />
   </a>
 
   <a href="https://github.com/yahaveliyahu">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="margin-right: 15px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" style="margin-right: 15px;" />
   </a>
 
   <a href="mailto:yahaveliyahu@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/240px-Gmail_icon_%282020%29.svg.png" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/240px-Gmail_icon_%282020%29.svg.png" width="45" />
   </a>
 </p>
 
