@@ -24,7 +24,7 @@ Looking to contribute and grow in a cybersecurity or development role, particula
 - Optimized the matching pipeline by using caching and parallel asynchronous requests with Kotlin coroutines to reduce response time when calling external APIs. 
 - Built complete user flows: favorites, viewing history, recipe search, admin approval workflow, and manual/OCR-based recipe import. 
 
-### 🚗 **Asteroid Avoidance Game — Android Mobile Game**
+### 🚀 **Asteroid Avoidance Game — Android Mobile Game**
 - A lane based asteroids dodging game with sensors, sound, animations, dynamic difficulty, and a high-score system.
 - Implemented accelerometer controls, collision detection, and physics.
 - Designed scoring system with GPS-based map visualization.
