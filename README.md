@@ -16,6 +16,15 @@ Looking to contribute and grow in a cybersecurity or development role, particula
 
 --- 
 
+## 🔐 Cybersecurity Portfolio
+
+📁 Hands-on cybersecurity labs, write-ups, and learning progress  
+focused on networking, secure systems, and defensive security.
+
+👉 [View my Cybersecurity Portfolio](https://github.com/yahaveliyahu/Cyber-portfolio)
+
+--- 
+
 ## 🔥 Featured Projects
 
 ### 🍽️ **KitchenMate — Smart Android Recipe Assistant (Kotlin, Firebase, ML)** 
