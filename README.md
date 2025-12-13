@@ -21,7 +21,8 @@ Looking to contribute and grow in a cybersecurity or development role, particula
 📁 Hands-on cybersecurity labs, write-ups, and learning progress  
 focused on networking, secure systems, and defensive security.
 
-👉 [View my Cybersecurity Portfolio](https://github.com/yahaveliyahu/Cyber-portfolio)
+👉 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/>
+[View my Cybersecurity Portfolio](https://github.com/yahaveliyahu/Cyber-portfolio)
 
 --- 
 
