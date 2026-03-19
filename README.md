@@ -36,12 +36,24 @@ focused on networking, secure systems, and defensive security.
 - Optimized the matching pipeline by using caching and parallel asynchronous requests with Kotlin coroutines to reduce response time when calling external APIs. 
 - Built complete user flows: favorites, viewing history, recipe search, admin approval workflow, and manual/OCR-based recipe import. 
 
-### 🚀 **Asteroid Avoidance Game — Android Mobile Game**
-- A lane based asteroids dodging game with sensors, sound, animations, dynamic difficulty, and a high-score system.
-- Implemented accelerometer controls, collision detection, and physics.
-- Designed scoring system with GPS-based map visualization.
-- Built responsive UI using XML + custom fragments.
-- Saved player progress with SharedPreferences + Gson.
+### 📡 **StreamBridge — Secure Phone-to-PC Communication System**
+📱 Android Server (Kotlin)
+- Developed an Android server application enabling secure real-time communication with a Windows client over LAN.
+- Implemented live camera streaming using CameraX, transmitting frames in real time over secure WebSockets.
+- Built an embedded HTTPS server (NanoHTTPD) and WSS communication layer for messaging, commands, and data transfer.
+- Designed a full secure communication pipeline using TLS, ECDHE key exchange, ECDSA authentication, and AES-256-GCM encryption.
+- Implemented TOFU (Trust On First Use) pairing with certificate pinning to prevent unauthorized device impersonation.
+- Added support for remote photo capture, file transfer, and bidirectional messaging.
+- Integrated local network discovery (mDNS / JmDNS) for automatic device detection.
+
+💻 Windows Client (Kotlin + JavaFX)
+- Developed a desktop client application enabling real-time interaction with the Android server over LAN.
+- Built a responsive UI using Kotlin + JavaFX for live camera viewing, chat, and file management.
+- Implemented secure communication over HTTPS and WSS, fully compatible with the Android server protocol.
+- Integrated real-time camera stream rendering, instant photo reception, and file transfer handling.
+- Implemented secure pairing and certificate pinning (TOFU model) to ensure trusted connections.
+- Developed auto-discovery of devices using mDNS and QR-based pairing workflow.
+- Designed client-side handling of encrypted communication using TLS, ECDHE, ECDSA, and AES-256-GCM.
 
 ---
 
