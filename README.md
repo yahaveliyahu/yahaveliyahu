@@ -33,9 +33,11 @@ End-to-end Android app for discovering recipes based on available ingredients, f
 
 ### 📡 **StreamBridge — Secure Phone-to-PC Communication System**
 📱 [Android Server (Kotlin)](https://github.com/yahaveliyahu/StreamBridge-Android.git)
+
 Real-time secure communication server with a Windows client over LAN. Implements live camera streaming (CameraX) over WSS, built on NanoHTTPD. Implements TLS with ECDHE, ECDSA, and AES-256-GCM encryption, TOFU-based pairing with certificate pinning. Supports file transfer, bidirectional messaging, remote photo capture and Integrated local network discovery (mDNS / JmDNS) for automatic device detection.
 
 💻 [Windows Client (Kotlin + JavaFX)](https://github.com/yahaveliyahu/StreamBridge-Windows.git)
+
 Desktop client for interacting with the Android server over LAN. Built a responsive UI for live stream viewing, chat and file management. Includes secure HTTPS/WSS communication fully compatible with the Android server protocol. Encrypted data handling and real-time media rendering. Developed auto-discovery of devices using mDNS and QR-based pairing workflow
 
 ---
