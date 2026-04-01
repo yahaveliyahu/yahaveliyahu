@@ -52,6 +52,10 @@ Reconstructed a fully working Android game starting from a broken APK with no so
 
 Smart authentication app that grants access only when multiple real-world conditions are met, combining system signals and sensor data (battery, WiFi, Bluetooth, microphone, and camera) with ML-based smile detection. Implements coroutine-based validation pipeline with detailed failure feedback and integrates diverse Android APIs for context-aware security.
 
+### 🚀 [Asteroid Avoidance Game – Android arcade game with sensors & maps (Kotlin, Google Maps)](https://github.com/yahaveliyahu/Asteroid-Avoidance-Game.git)
+
+Lane-based arcade game where players dodge obstacles using touch or accelerometer controls, featuring dynamic difficulty scaling, boost/brake mechanics, and collision-based feedback (sound + vibration). Includes high-score system with tracking  GPS location, Google Maps integration for score visualization, and persistent storage using SharedPreferences + Gson.
+
 ---
 
 ## 🛠️ Technologies & Tools
