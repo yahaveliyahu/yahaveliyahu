@@ -38,7 +38,7 @@ Real-time secure communication server with a Windows client over LAN. Implements
 
 💻 [Windows Client (Kotlin + JavaFX)](https://github.com/yahaveliyahu/StreamBridge-Windows.git)
 
-Desktop client for interacting with the Android server over LAN. Built a responsive UI for live stream viewing, chat and file management. Includes secure HTTPS/WSS communication fully compatible with the Android server protocol. Encrypted data handling and real-time media rendering. Developed auto-discovery of devices using mDNS and QR-based pairing workflow
+A Desktop client application for interacting with the Android server over LAN. Built a responsive UI for live stream viewing, chat and file management. Includes secure HTTPS/WSS communication, encrypted data handling and real-time media rendering. Developed auto-discovery of devices using mDNS and QR-based pairing workflow
 
 ---
 
