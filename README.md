@@ -48,6 +48,10 @@ Mobile security system that intercepts links from any app (SMS/WhatsApp/Browser)
 
 Reconstructed a fully working Android game starting from a broken APK with no source code, performing full decompilation, project rebuilding (code/resources/Gradle), and systematic debugging to restore functionality. Fixed critical issues including hidden-character URL bugs, network permissions, dependency/SDK mismatches, and UI interaction problems, resulting in a verified working app on a physical device.
 
+### 📱 [Context-Aware Login – Multi-factor environmental authentication (Android, ML Kit)](https://github.com/yahaveliyahu/Context-Aware-Login.git)
+
+Smart authentication app that grants access only when multiple real-world conditions are met, combining system signals and sensor data (battery, WiFi, Bluetooth, microphone, and camera) with ML-based smile detection. Implements coroutine-based validation pipeline with detailed failure feedback and integrates diverse Android APIs for context-aware security.
+
 ---
 
 ## 🛠️ Technologies & Tools
