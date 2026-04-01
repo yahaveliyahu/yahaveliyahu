@@ -33,22 +33,10 @@ End-to-end Android app for discovering recipes based on available ingredients, f
 
 ### 📡 **StreamBridge — Secure Phone-to-PC Communication System**
 📱 [Android Server (Kotlin)](https://github.com/yahaveliyahu/StreamBridge-Android.git)
-- Developed an Android server application enabling secure real-time communication with a Windows client over LAN.
-- Implemented live camera streaming using CameraX, transmitting frames in real time over secure WebSockets.
-- Built an embedded HTTPS server (NanoHTTPD) and WSS communication layer for messaging, commands, and data transfer.
-- Designed a full secure communication pipeline using TLS, ECDHE key exchange, ECDSA authentication, and AES-256-GCM encryption.
-- Implemented TOFU (Trust On First Use) pairing with certificate pinning to prevent unauthorized device impersonation.
-- Added support for remote photo capture, file transfer, and bidirectional messaging.
-- Integrated local network discovery (mDNS / JmDNS) for automatic device detection.
+Real-time secure communication server with a Windows client over LAN. Implements live camera streaming (CameraX) over WSS, built on NanoHTTPD. Implements TLS with ECDHE, ECDSA, and AES-256-GCM encryption, TOFU-based pairing with certificate pinning. Supports file transfer, bidirectional messaging, remote photo capture and Integrated local network discovery (mDNS / JmDNS) for automatic device detection.
 
 💻 [Windows Client (Kotlin + JavaFX)](https://github.com/yahaveliyahu/StreamBridge-Windows.git)
-- Developed a desktop client application enabling real-time interaction with the Android server over LAN.
-- Built a responsive UI using Kotlin + JavaFX for live camera viewing, chat, and file management.
-- Implemented secure communication over HTTPS and WSS, fully compatible with the Android server protocol.
-- Integrated real-time camera stream rendering, instant photo reception, and file transfer handling.
-- Implemented secure pairing and certificate pinning (TOFU model) to ensure trusted connections.
-- Developed auto-discovery of devices using mDNS and QR-based pairing workflow.
-- Designed client-side handling of encrypted communication using TLS, ECDHE, ECDSA, and AES-256-GCM.
+Desktop client for interacting with the Android server over LAN. Built a responsive UI for live stream viewing, chat and file management. Includes secure HTTPS/WSS communication fully compatible with the Android server protocol. Encrypted data handling and real-time media rendering. Developed auto-discovery of devices using mDNS and QR-based pairing workflow
 
 ---
 
