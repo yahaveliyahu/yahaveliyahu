@@ -56,6 +56,10 @@ Smart authentication app that grants access only when multiple real-world condit
 
 Lane-based arcade game where players dodge obstacles using touch or accelerometer controls, featuring dynamic difficulty scaling, boost/brake mechanics, and collision-based feedback (sound + vibration). Includes high-score system with tracking  GPS location, Google Maps integration for score visualization, and persistent storage using SharedPreferences + Gson.
 
+### 🦁 [Zoo Management System – Java OOP + PostgreSQL (JDBC)](https://github.com/yahaveliyahu/Zoo-Management-System-Java-OOP-with-PostgreSQL-database.git)
+
+Object-oriented Java application modeling a zoo system using inheritance, polymorphism, and custom comparators, with full PostgreSQL integration for persistent storage and querying via JDBC. Implements animal lifecycle management, sorting/filtering logic, and structured DB operations with a layered design (manager + connector).
+
 ---
 
 ## 🛠️ Technologies & Tools
