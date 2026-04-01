@@ -44,6 +44,10 @@ A Desktop client application for interacting with the Android server over LAN. B
 
 Mobile security system that intercepts links from any app (SMS/WhatsApp/Browser) and evaluates them before opening, combining on-device lexical analysis with server-side ML scoring to generate a real-time risk percentage and user-friendly explanation. Features zero-day detection pipeline, Intent-based interception, caching + threat intelligence lookup, and explainable alerts with blocking for high-risk links.
 
+🎮 [SurviveGameFixed – Reverse engineered Android game rebuild (APK → Android Studio)](https://github.com/yahaveliyahu/SurviveGameFixed.git)
+
+Reconstructed a fully working Android game starting from a broken APK with no source code, performing full decompilation, project rebuilding (code/resources/Gradle), and systematic debugging to restore functionality. Fixed critical issues including hidden-character URL bugs, network permissions, dependency/SDK mismatches, and UI interaction problems, resulting in a verified working app on a physical device.
+
 ---
 
 ## 🛠️ Technologies & Tools
