@@ -60,6 +60,10 @@ Lane-based arcade game where players dodge obstacles using touch or acceleromete
 
 Object-oriented Java application modeling a zoo system using inheritance, polymorphism, and custom comparators, with full PostgreSQL integration for persistent storage and querying via JDBC. Implements animal lifecycle management, sorting/filtering logic, and structured DB operations with a layered design (manager + connector).
 
+### 🏦 [Bank System – Java OOP design with SOLID principles](https://github.com/yahaveliyahu/BankSystem-Java-OOP.git)
+
+Console-based banking system implementing core OOP concepts (inheritance, polymorphism, encapsulation) and SOLID principles, featuring multiple account types, factory-based object creation, and custom exception handling for robust client/account management.
+
 ---
 
 ## 🛠️ Technologies & Tools
