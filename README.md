@@ -103,10 +103,6 @@ Mobile security system that intercepts links from any app (SMS/WhatsApp/Browser)
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" style="margin-right: 15px;" />
   </a>
 
-  <a href="https://github.com/yahaveliyahu">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" style="margin-right: 15px;" />
-  </a>
-
   <a href="mailto:yahaveliyahu@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/240px-Gmail_icon_%282020%29.svg.png" width="45" />
   </a>
