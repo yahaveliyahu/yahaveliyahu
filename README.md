@@ -28,10 +28,8 @@ focused on networking, secure systems, and defensive security.
 
 ## 🔥 Featured Projects
 
-### 🍽️ 
+### 🍽️ [KitchenMate — Smart Android Recipe Assistant (Kotlin, Firebase, ML)](https://github.com/yahaveliyahu/KitchenMate.git)
 End-to-end Android app for discovering recipes based on available ingredients, featuring on-device ingredient recognition (TensorFlow Lite), barcode scanning (ZXing), and a multi-step matching pipeline combining Firestore and Spoonacular APIs with intelligent fallback. Includes caching + coroutines optimization, favorites/history system, and admin approval workflow. 
-
-[**KitchenMate — Smart Android Recipe Assistant (Kotlin, Firebase, ML)** ](https://github.com/yahaveliyahu/AntiPhishing)
 
 ### 📡 **StreamBridge — Secure Phone-to-PC Communication System**
 📱 Android Server (Kotlin)
