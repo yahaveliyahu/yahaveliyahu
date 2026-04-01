@@ -32,7 +32,7 @@ focused on networking, secure systems, and defensive security.
 End-to-end Android app for discovering recipes based on available ingredients, featuring on-device ingredient recognition (TensorFlow Lite), barcode scanning (ZXing), and a multi-step matching pipeline combining Firestore and Spoonacular APIs with intelligent fallback. Includes caching + coroutines optimization, favorites/history system, and admin approval workflow. 
 
 ### 📡 **StreamBridge — Secure Phone-to-PC Communication System**
-📱 Android Server (Kotlin)
+📱 [Android Server (Kotlin)](https://github.com/yahaveliyahu/StreamBridge-Android.git)
 - Developed an Android server application enabling secure real-time communication with a Windows client over LAN.
 - Implemented live camera streaming using CameraX, transmitting frames in real time over secure WebSockets.
 - Built an embedded HTTPS server (NanoHTTPD) and WSS communication layer for messaging, commands, and data transfer.
@@ -41,7 +41,7 @@ End-to-end Android app for discovering recipes based on available ingredients, f
 - Added support for remote photo capture, file transfer, and bidirectional messaging.
 - Integrated local network discovery (mDNS / JmDNS) for automatic device detection.
 
-💻 Windows Client (Kotlin + JavaFX)
+💻 [Windows Client (Kotlin + JavaFX)](https://github.com/yahaveliyahu/StreamBridge-Windows.git)
 - Developed a desktop client application enabling real-time interaction with the Android server over LAN.
 - Built a responsive UI using Kotlin + JavaFX for live camera viewing, chat, and file management.
 - Implemented secure communication over HTTPS and WSS, fully compatible with the Android server protocol.
