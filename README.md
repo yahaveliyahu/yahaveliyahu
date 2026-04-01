@@ -40,6 +40,10 @@ Real-time secure communication server with a Windows client over LAN. Implements
 
 A Desktop client application for interacting with the Android server over LAN. Built a responsive UI for live stream viewing, chat and file management. Includes secure HTTPS/WSS communication, encrypted data handling and real-time media rendering. Developed auto-discovery of devices using mDNS and QR-based pairing workflow
 
+### 🔐 [AntiPhishing – Cross-app phishing detection system (Android, Flask, ML)](https://github.com/yahaveliyahu/AntiPhishing.git)
+
+Mobile security system that intercepts links from any app (SMS/WhatsApp/Browser) and evaluates them before opening, combining on-device lexical analysis with server-side ML scoring to generate a real-time risk percentage and user-friendly explanation. Features zero-day detection pipeline, Intent-based interception, caching + threat intelligence lookup, and explainable alerts with blocking for high-risk links.
+
 ---
 
 ## 🛠️ Technologies & Tools
