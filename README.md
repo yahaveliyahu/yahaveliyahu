@@ -136,13 +136,8 @@ Console-based banking system implementing core OOP concepts (inheritance, polymo
 ### **Machine Learning & Data**
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" title="TensorFlow Lite" alt="TensorFlow" />
+  <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" height="45" title="XGBoost" alt="XGBoost" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" title="scikit-learn" alt="scikit-learn" />
-
-### **Tools & Platforms**
-<p align="left">
-  <!-- Version Control -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" title="pandas" alt="pandas" /> 
 </p>
 
@@ -151,7 +146,7 @@ Console-based banking system implementing core OOP concepts (inheritance, polymo
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux" alt="Linux" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="45" title="Windows" alt="Windows" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="45" title="PowerShell" alt="PowerShell" />
-    <img src="https://gitlab.com/wireshark/wireshark/-/raw/master/resources/icons/wsicon128.png" width="45" title="Wireshark" alt="Wireshark" /> 
+    <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45" title="Wireshark" alt="Wireshark" /> 
   </p>
 
 ### **DevOps & Tools**
@@ -159,6 +154,7 @@ Console-based banking system implementing core OOP concepts (inheritance, polymo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="45" title="Render" alt="Render" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="45" title="Gradle" alt="Gradle" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" title="Postman" alt="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45" title="Vercel" alt="Vercel" />
@@ -184,9 +180,8 @@ Console-based banking system implementing core OOP concepts (inheritance, polymo
   <a href="https://www.linkedin.com/in/yahav-eliyahu-9a07a8334">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" style="margin-right: 15px;" />
   </a>
-  <a href="mailto:yahaveliyahu@gmail.com">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/240px-Gmail_icon_%282020%29.svg.png" width="45" /> 
-  </a>
+ <a href="mailto:yahaveliyahu@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" title="Gmail" alt="Gmail" />
+ </a>
 </p>
 
 
