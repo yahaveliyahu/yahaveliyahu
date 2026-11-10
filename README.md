@@ -28,7 +28,7 @@ focused on SOC operations, SIEM & log analysis, threat frameworks (MITRE ATT&CK,
 
 ### 🔐 AntiPhishing – Cross-app phishing detection system (Kotlin, Swift, Flask, XGBoost)
 
-📱 [Android App (Kotlin)](https://github.com/yahaveliyahu/AntiPhishing-Android.git) · 🍎 [iOS App (Swift)](https://github.com/yahaveliyahu/AntiPhishing-IOS.git) · 🖥️ [Backend (Python, Flask, XGBoost)](https://github.com/yahaveliyahu/AntiPhishing-Server.git)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="16" /> [Android App (Kotlin)](https://github.com/yahaveliyahu/AntiPhishing-Android.git) · 🍎 [iOS App (Swift)](https://github.com/yahaveliyahu/AntiPhishing-IOS.git) · 🖥️ [Backend (Python, Flask, XGBoost)](https://github.com/yahaveliyahu/AntiPhishing-Server.git)
 
 Mobile security system that intercepts links from any app (SMS/WhatsApp/Browser) and evaluates them before opening, combining on-device lexical analysis with server-side ML scoring to generate a real-time risk percentage and user-friendly explanation. Features zero-day detection pipeline, Intent-based interception, caching + threat intelligence lookup, and explainable alerts with blocking for high-risk links.
 
