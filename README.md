@@ -161,8 +161,8 @@ Console-based banking system implementing core OOP concepts (inheritance, polymo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45" title="Unity" alt="Unity" />
 </p>
   
-  <!-- IDEs -->
-  <p align="left"> 
+### **IDEs**
+<p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" title="Android Studio" alt="Android Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="45" title="Xcode" alt="Xcode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" title="IntelliJ IDEA" alt="IntelliJ IDEA" />
