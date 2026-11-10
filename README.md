@@ -146,7 +146,7 @@ Console-based banking system implementing core OOP concepts (inheritance, polymo
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux" alt="Linux" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="45" title="Windows" alt="Windows" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="45" title="PowerShell" alt="PowerShell" />
-    <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45" title="Wireshark" alt="Wireshark" /> 
+   <img src="https://raw.githubusercontent.com/wireshark/wireshark/master/resources/icons/wsicon256.png" width="45" title="Wireshark" alt="Wireshark" /> 
   </p>
 
 ### **DevOps & Tools**
@@ -180,8 +180,8 @@ Console-based banking system implementing core OOP concepts (inheritance, polymo
   <a href="https://www.linkedin.com/in/yahav-eliyahu-9a07a8334">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" style="margin-right: 15px;" />
   </a>
- <a href="mailto:yahaveliyahu@gmail.com">
-   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" title="Gmail" alt="Gmail" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=yahaveliyahu@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" title="Gmail" alt="Gmail" />
  </a>
 </p>
 
