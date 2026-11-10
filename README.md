@@ -180,7 +180,8 @@ Console-based banking system implementing core OOP concepts (inheritance, polymo
   <a href="https://www.linkedin.com/in/yahav-eliyahu-9a07a8334">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" style="margin-right: 15px;" />
   </a>
- <a href="mailto:yahaveliyahu@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" title="Gmail" alt="Gmail" />
+ <a href="mailto:yahaveliyahu@gmail.com">
+   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" title="Gmail" alt="Gmail" />
  </a>
 </p>
 
